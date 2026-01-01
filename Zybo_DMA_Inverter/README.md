@@ -29,6 +29,7 @@ Includes:
 - Basic understanding of digital logic
 
 ---
+![System Design](imgs/diagram.png)
 
 # Part 1: Designing Custom AXI-Stream IP (Image Inversion)
 

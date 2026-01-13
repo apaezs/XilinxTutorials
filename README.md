@@ -13,6 +13,15 @@ A basic project tutorial exploring the HLS workflow with an adder
 - Focus: HLS flow and IP integration
 - 📂 `HLS_Adder/`
 
+### HLS Counter
+**Introduction to Sequential Logic using Vitis HLS**
+
+A basic project tutorial exploring the HLS workflow with an adder
+
+- Tutorial for RealDigital Urbana Board
+- Focus: HLS flow and IP integration
+- 📂 `HLS_Counter/`
+
 ### AXI-Stream Image Inverter 
 **Full Zynq Pipeline Implementation**
 

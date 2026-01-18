@@ -11,16 +11,25 @@ A basic project tutorial exploring the HLS workflow with an adder
 
 - Tutorial for RealDigital Urbana Board
 - Focus: HLS flow and IP integration
-- 📂 `HLS_Adder/`
+- 📂 `HLS_1_Adder/`
 
 ### HLS Counter
 **Introduction to Sequential Logic using Vitis HLS**
 
-A basic project tutorial exploring the HLS workflow with an adder
+A basic project tutorial exploring the HLS workflow with a counter
 
 - Tutorial for RealDigital Urbana Board
 - Focus: HLS flow and IP integration
-- 📂 `HLS_Counter/`
+- 📂 `HLS_2_Counter/`
+
+### HLS Shift Register
+**Second tutorial in sequential logic using Vitis HLS**
+
+A basic project tutorial exploring the HLS workflow with a shift register
+
+- Tutorial for Zybo Z7-10
+- Focus: HLS flow and IP integration
+- 📂 `HLS_3_Shifter_Register/`
 
 ### AXI-Stream Image Inverter 
 **Full Zynq Pipeline Implementation**
